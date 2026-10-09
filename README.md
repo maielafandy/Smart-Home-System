@@ -30,7 +30,7 @@ The program allows the user to add different devices and control them through a 
 4. Run the following command:
 
 ```bash
-python3 main.py
+py main.py
 ```
 
 ## Author
